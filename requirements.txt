@@ -1,0 +1,9 @@
+streamlit
+google-genai
+transformers
+torch
+soundfile
+librosa
+python-dotenv
+numpy
+audio-recorder-streamlit
