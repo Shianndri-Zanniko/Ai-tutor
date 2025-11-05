@@ -10,6 +10,17 @@ An AI-powered voice tutor application designed for Indonesian elementary school 
 - **User-Friendly Interface**: Clean Streamlit web interface
 - **Indonesian Language Support**: Fine-tuned for Indonesian language
 
+## Screenshots
+
+![Main Interface](screenshot/1.png)
+*AI Tutor main interface showing the voice input and response display*
+
+![Example Question](screenshot/2.png)
+*Example of a student question being processed*
+
+![AI Response](screenshot/3.png)
+*AI tutor providing an educational response*
+
 ## Architecture
 
 1. **Speech Recognition**: Uses `conevonce/whisper-small-id3` (Whisper Small fine-tuned for Indonesian)
